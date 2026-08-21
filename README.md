@@ -1,120 +1,73 @@
 <div align="center">
-  <!-- CINEMATIC DUAL GAME BANNER (2 ẢNH CÂN BẰNG HOÀN HẢO) -->
-  <table>
-    <tr>
-      <td width="50%" align="center" style="border: none; padding: 0;">
-        <img src="https://github.com/user-attachments/assets/ddc17067-bd5d-4fcc-a49e-a81a5705b856" height="230px" style="border-radius: 8px; object-fit: cover;" alt="Xbox Cinematic 1" />
-      </td>
-      <td width="50%" align="center" style="border: none; padding: 0;">
-        <img src="https://github.com/user-attachments/assets/7b78b7ac-8bb4-4aa2-aecf-a9c5176a7306" height="230px" style="border-radius: 8px; object-fit: cover;" alt="Space Marine Cinematic 2" />
-      </td>
-    </tr>
-  </table>
 
-  <br/>
-
-  <!-- TYPING SVG & GREETING -->
-  <h1>Hi 👋, I'm Tuan (Gameplay Programmer)</h1>
-  <a href="https://github.com/TuanpvGCD210193">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=550&lines=Passionate+Game+Developer+🎮;Mastering+Unity+%26+Unreal+Engine+🕹️;Gameplay+Mechanics+%26+Game+Physics+Specialist+⚡;Turning+Coffee+into+Interactive+Worlds+☕" alt="Typing SVG" />
-  </a>
-
-  <br/>
-  
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=TuanpvGCD210193&label=Player%20Views&color=00F7FF&style=flat-square" alt="Views" />
-  </p>
-</div>
-
-<br/>
-
-<!-- RPG CHARACTER STATUS & ABOUT ME -->
-<h2>🧙‍♂️ Player Character Sheet & Quest Log</h2>
-
-<table>
-<tr>
-<td width="65%" valign="top">
-
-### 📜 Current Quests & Objectives
-- 🎮 **Core Specialization:** Gameplay Programming, Custom Character Controllers, Physics Systems & Combat Mechanics.
-- 🛠️ **Current Focus:** Unreal Engine 5 C++ Gameplay Framework, Advanced Particle VFX & Shaders.
-- 🚀 **Grinding on:** Polishing indie game prototypes & dynamic enemy AI behaviors.
-- 💡 **Philosophy:** *"A game is a series of interesting decisions."*
-- 💬 **Ask me about:** C#, C++, Unity, Unreal, Vector Math, Game Architecture & SOLID principles.
-- 📬 **Direct Inquiries:** `phamtuanvan264@gmail.com`
-
-</td>
-<td width="35%" align="center" valign="middle">
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="180px" alt="Pixel Dev" />
-<br/>
-<b>Level 99 Game Dev</b>
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- ARSENAL & TECH STACK CATEGORIZED -->
-<h2>⚔️ Arsenal & Tech Stack</h2>
-
-<table>
-<tr>
-<td width="30%"><b>🎮 Game Engines</b></td>
-<td>
-  <img src="https://skillicons.dev/icons?i=unity,unreal,godot" alt="Engines" />
-</td>
-</tr>
-<tr>
-<td><b>💻 Core Languages</b></td>
-<td>
-  <img src="https://skillicons.dev/icons?i=cs,cpp,c,python" alt="Languages" />
-</td>
-</tr>
-<tr>
-<td><b>🎨 3D & Creative Tools</b></td>
-<td>
-  <img src="https://skillicons.dev/icons?i=blender,photoshop" alt="Creative" />
-</td>
-</tr>
-<tr>
-<td><b>⚙️ IDEs & Version Control</b></td>
-<td>
-  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,github" alt="Tools" />
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- FEATURED GAMEPLAY PROJECTS / DEMOS -->
-<h2>🕹️ Gameplay Prototypes & Mechanics Showcase</h2>
-
-<table>
-<tr>
-<td width="50%" align="center">
-<h3>🗡️ 3D Action Combat System</h3>
-<p>Third-person combo chaining, custom hitbox detection, ragdoll physics & animation blending in <b>Unreal Engine (C++)</b>.</p>
-<img src="https://img.shields.io/badge/Status-In%20Development-00F7FF?style=flat-square" alt="Status" />
-</td>
-<td width="50%" align="center">
-<h3>🚀 2D Physics Platformer</h3>
-<p>Kinematic character controller, grappling hook mechanics, and procedural tilemap generation in <b>Unity (C#)</b>.</p>
-<img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" alt="Status" />
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- GITHUB STATS & TROPHY -->
-<div align="center">
-<h2>📊 Game Dev GitHub Stats</h2>
-
-<img src="https://github-readme-stats-fast.vercel.app/api?username=TuanpvGCD210193&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-&nbsp;
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=TuanpvGCD210193&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+<!-- 1. HERO BANNER MẶC ĐỊNH MỞ SẴN TRỰC QUAN + 1 ẢNH THỨ 2 MỞ RỘNG BÊN DƯỚI -->
+<img src="https://github.com/user-attachments/assets/ddc17067-bd5d-4fcc-a49e-a81a5705b856" width="85%" style="border-radius: 6px; border: 1px solid #444;" alt="Space Marine Main Reel" />
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=TuanpvGCD210193&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" width="100%" />
+<details>
+  <summary><b>⚜️ [Click to View Secondary Scene] Purge the Heretic: Cinematic Combat</b></summary>
+  <br/>
+  <img src="https://github.com/user-attachments/assets/7b78b7ac-8bb4-4aa2-aecf-a9c5176a7306" width="85%" style="border-radius: 6px; border: 1px solid #444;" alt="Space Marine Scene 2" />
+</details>
+
+<br/>
+
+<!-- 2. GOTHIC WARHAMMER 40K HEADER -->
+<h1>⚔️ I'm TUAN • TECH-PRIEST OF GAMEPLAY ARCHITECTURE ⚔️</h1>
+<h4>⚜️ <i>"In the grim darkness of game development, there is only clean physics and optimized code."</i> ⚜️</h4>
+<p><b>Gameplay Engineer</b> • <b>Unreal Engine (C++)</b> & <b>Unity (C#)</b></p>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=TuanpvGCD210193&label=COGITATOR%20VIEWS&color=b8860b&style=flat-square" alt="Views" />
+</p>
+
+</div>
+
+---
+
+### 📜 Codex: Sacred Rites & Directives
+
+Forging high-performance gameplay systems, deterministic combat mechanics, and physics interactions with mathematical precision. Dedicated to the machine spirit of **Unreal Engine** and **Unity**.
+
+- ⚙️ **Core Doctrines:** Advanced Gameplay Frameworks, Character Locomotion, Hitbox & Combat Physics, Behavior Trees / AI.
+- ⚡ **Sacred Engines:** Unreal Engine 5 (High-Performance C++) • Unity (C# Architecture).
+- 🛠️ **Current Rite:** Polishing real-time combat prototypes & crafting custom animation blending pipelines.
+- 📬 **Imperial Vox Link:** [phamtuanvan264@gmail.com](mailto:phamtuanvan264@gmail.com)
+
+---
+
+### ⚙️ The Omnissiah's Arsenal
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=unreal,unity,cpp,cs,python,blender,git,github,visualstudio,vscode&perline=10" alt="Tech Stack" />
+</p>
+
+---
+
+### 🛡️ Battle Records & Gameplay Prototypes
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <h3>🗡️ 3D Melee Combat & Execution Engine</h3>
+      <p>Physics-driven hit impact, animation warp blending, directional parry & ragdoll execution.</p>
+      <code>Unreal Engine 5</code> • <code>C++</code>
+    </td>
+    <td width="50%" align="center">
+      <h3>🚀 Kinematic 2D Mechanics Framework</h3>
+      <p>Custom deterministic physics controller, momentum grappling & dynamic obstacle navigation.</p>
+      <code>Unity</code> • <code>C#</code>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 Cogitator Telemetry & Forge Metrics
+
+<div align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=TuanpvGCD210193&show_icons=true&theme=gotham&hide_border=true&count_private=true" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=TuanpvGCD210193&layout=compact&theme=gotham&hide_border=true" alt="Top Langs" />
 </div>
