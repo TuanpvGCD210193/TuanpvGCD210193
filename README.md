@@ -92,11 +92,11 @@
 <!-- CONTACT -->
 <h2 id="contact">📫 Connect With Me</h2>
 <p align="center">
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:phamtuanvan264@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://discord.com">
+  <a href="[https://discord.com](https://discord.com/users/454628072399044608)"target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </p>
